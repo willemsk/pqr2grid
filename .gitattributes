@@ -1,0 +1,4 @@
+mspa_chargemap.txt filter=lfs diff=lfs merge=lfs -text
+mspa_ci_chains_7.5_chargemap.txt filter=lfs diff=lfs merge=lfs -text
+mspa_ci_chains_pH8.0_chargemap.txt filter=lfs diff=lfs merge=lfs -text
+m2mspa_pH7.0_fractional_chargemap.txt filter=lfs diff=lfs merge=lfs -text
